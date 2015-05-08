@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <tr>Price</tr>
+    <tr>Launched</tr>		
+    <tr>Weight</tr>
+    <tr>Display</tr>
+    <tr>O/S</tr>
+    <tr>CPU</tr>
+    <tr>Internal</tr>
+    <tr>RAM</tr>  
+
+
+
+
+</tr>
+  <tr>
+    <tr>30,000</tr>
+    <tr>2015 Feb</tr>
+    <tr>145g</tr>		
+    <tr>4.5 Inches</tr>
+    <tr>Android 5.0</tr>
+    <tr>Quad-Core 1.2 GHz</tr>
+    <tr>8-GB</tr>
+    <tr>1-GB</tr>
+  </tr>
+</table>
+
+</body>
+</html>
